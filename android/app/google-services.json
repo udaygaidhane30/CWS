@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234680460019",
+    "project_id": "cwsintern-371e5",
+    "storage_bucket": "cwsintern-371e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234680460019:android:146a10eb9815dc317e0d86",
+        "android_client_info": {
+          "package_name": "com.example.cwsintern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234680460019-rofu4tf9dfeuuqutnmadg8h89oqqne5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9xjaf0KY9fe-YsYSOCR7UIqauo8owDog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234680460019-rofu4tf9dfeuuqutnmadg8h89oqqne5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
